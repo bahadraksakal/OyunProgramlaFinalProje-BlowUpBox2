@@ -15,9 +15,12 @@
       <h3 color="Red">Nasıl Oynanır:</h3>
       <ul>
         <li>Oyunun amacı, topu tüm karelere çarptırarak onları yok etmektir.</li>
-        <li>Top zemine değerse 1 canınız gider. Toplam 3 canınız bulunmaktadır. Can 0 olduğunda oyunu kaybedersiniz ve oyun baştan başlar.</li>
+        <li>Top zemine değerse 1 canınız gider. Toplam 6 canınız bulunmaktadır. Can 0 olduğunda oyunu kaybedersiniz, tüm kaydınız silinir ve oyun baştan başlar.</li>
+        <li>Oyunun Pausemenü'sündeki Mainmenu butonuna bastığınız sahne save alınır. Daha sonra Mainmenüden resume butonuna tıklayarak o sahneden devam edersiniz.</li>
         <li>Sağ ve Sol yön tuşları ile playeri hareket ettirin. Sol mouse-click ile ateş edin.</li>
-        <li>16 bloğu kırdığınızda oyunu kazanırsınız.</li>
+        <li>23 bloğu kırdığınızda 2. bölüme geçersiniz.</li>
+        <li>2. bölüme geçildiğinde can haklarınız yenilenir ve skor sıfırlanır</li>
+        <li>2. bölümdeki 23 bloğu kırdığınızda oyunu kazanırsınız.</li>
       </ul>
   </li>
   <li>
@@ -30,9 +33,10 @@
          <ul>
            <h6>Çağla Yağmur İçer;</h6>
            <li> Assetlerin blender'da hazırlanması(Kendi Çizimleri) ve projeye entegre edilmesi.</li>
+           <li> Animasyonların hazırlanması ve projeye entegre edilmesi.</li>
            <li> Müzik dosyalarının hazırlanması, editlenmesi ve projeye entegre edilmesi.</li>
            <li> Menü tasarımları ve oyuna uyumlu yeni yazı tipi eklenmesi ve projeye entegre edilmesi.</li>
-           <li> Yeni scritlerin ve fonksiyonların geliştirilmesinde destek verilmesi.</li>
+           <li> Yeni scriptlerin ve fonksiyonların geliştirilmesinde destek verilmesi.</li>
            <li> Sahne2'nin oluşturulması ve yeni bugların fixlemesi</li>
            <li> Tüm proje tek pc üzerinden yürütülüp aslında tüm adımlar beraber yapılmıştır.</li>
          </ul>
@@ -42,6 +46,7 @@
            <li> Pause menü fonksiyonlarının asenkron şekilde yazılması - Projeye Entegre Kısmında Çağla Yağmur İçer Ekstra Destek Verdi.</li>
            <li> Kayıt alma, fonksiyonlarının yazılması ve projeye entegre edilmesi.</li>
            <li> Restart butonlarının en baştaki sahneye geri atıyordu,Butonlar o anda oynanan sahneyi restart edecek şekilde güncellendi(Asenkron).</li>
+           <li> GoNextLevel() fonksiyonu ile istenilen şekilde asenkron sahne geçileri</li>
            <li> Tüm proje tek pc üzerinden yürütülüp aslında tüm adımlar beraber yapılmıştır.</li>
          </ul> 
     </ul>
