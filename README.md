@@ -52,7 +52,7 @@
     </ul>
   </li>
   <li>
-      <h3 color="Red">Yapımcılar:</h3>
+      <h3 color="Red">V1 Sürümü Geliştirme Notları:</h3>
       <ul>
          <li>Ahmet Bahadır Aksakal - Çağla Yağmur İçer</li>
          <li>Oyun için remote çalışmak pek sağlıklı olmayacağından, oyun geliştirme sürecinde ekip arkadaşımla birlikte tek bir bilgisayar üzerinden çalıştık</li>
@@ -61,7 +61,7 @@
     </ul>
   </li>
   <li>
-      <h3 color="Red">Görseller:</h3>
+      <h3 color="Red">Oyundan Görseller:</h3>
       <ul>
         <li><img src="Gorseller/blowUpBox.jpeg"></li>
         <li><img src="Gorseller/blowUpBox2.jpeg"></li>
