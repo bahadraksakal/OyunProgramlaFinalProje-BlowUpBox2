@@ -33,7 +33,7 @@
          <ul>
            <h6>Çağla Yağmur İçer;</h6>
            <li> Pause menü fonksiyonlarının asenkron şekilde yazılması, eski butonların opitimize edilmesi, eski buton fonksiyonlarının asenkron olarak güncellenmesi</li>
-           <li> Kayıt alma(Save), fonksiyonlarının yazılması ve projeye entegre edilmesi.</li>
+           <li> Kayıt alma(Save), fonksiyonlarının yazılması ve projeye entegre edilmesi. Oluşan yeni hataların fixlenmesi</li>
            <li> Assetlerin Krita'da hazırlanması(Kendi Çizimleri) ve projeye entegre edilmesi.</li>
            <li> Animasyonların hazırlanması ve projeye entegre edilmesi.</li>
            <li> Müzik dosyalarının hazırlanması, editlenmesi ve projeye entegre edilmesi.</li>          
