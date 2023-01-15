@@ -63,9 +63,12 @@
   <li>
       <h3 color="Red">Oyundan Görseller:</h3>
       <ul>
-        <li><img src="Gorseller/blowUpBox.jpeg"></li>
-        <li><img src="Gorseller/blowUpBox2.jpeg"></li>
-        <li><img src="Gorseller/blowUpBox3.jpeg"></li>
+        <li><img src="GorsellerReadme/blowupbox2-0.png"></li>
+        <li><img src="GorsellerReadme/blowupbox2-1.png"></li>
+        <li><img src="GorsellerReadme/blowupbox2-2.png"></li>
+        <li><img src="GorsellerReadme/blowupbox2-3.png"></li>
+        <li><img src="GorsellerReadme/blowupbox2-4.png"></li>
+        <li><img src="GorsellerReadme/blowupbox2-5.png"></li>        
       </ul>
   </li>
 </ol>
