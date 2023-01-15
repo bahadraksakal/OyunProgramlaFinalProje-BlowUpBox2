@@ -32,7 +32,7 @@
          <li>İllaki bir örnek vermek gerekirse:</li> 
          <ul>
            <h6>Çağla Yağmur İçer;</h6>
-           <li> Assetlerin blender'da hazırlanması(Kendi Çizimleri) ve projeye entegre edilmesi.</li>
+           <li> Assetlerin Krita'da hazırlanması(Kendi Çizimleri) ve projeye entegre edilmesi.</li>
            <li> Animasyonların hazırlanması ve projeye entegre edilmesi.</li>
            <li> Müzik dosyalarının hazırlanması, editlenmesi ve projeye entegre edilmesi.</li>
            <li> Menü tasarımları ve oyuna uyumlu yeni yazı tipi eklenmesi ve projeye entegre edilmesi.</li>
