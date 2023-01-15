@@ -32,10 +32,11 @@
          <li>İllaki bir örnek vermek gerekirse:</li> 
          <ul>
            <h6>Çağla Yağmur İçer;</h6>
+           <li> Pause menü fonksiyonlarının asenkron şekilde yazılması, eski butonların opitimize edilmesi, eski buton fonksiyonlarının asenkron olarak güncellenmesi</li>
+           <li> Kayıt alma(Save), fonksiyonlarının yazılması ve projeye entegre edilmesi.</li>
            <li> Assetlerin Krita'da hazırlanması(Kendi Çizimleri) ve projeye entegre edilmesi.</li>
            <li> Animasyonların hazırlanması ve projeye entegre edilmesi.</li>
-           <li> Müzik dosyalarının hazırlanması, editlenmesi ve projeye entegre edilmesi.</li>
-           <li> Menü tasarımları ve oyuna uyumlu yeni yazı tipi eklenmesi ve projeye entegre edilmesi.</li>
+           <li> Müzik dosyalarının hazırlanması, editlenmesi ve projeye entegre edilmesi.</li>          
            <li> Yeni scriptlerin ve fonksiyonların geliştirilmesinde destek verilmesi.</li>
            <li> Sahne2'nin oluşturulması ve yeni bugların fixlemesi</li>
            <li> Tüm proje tek pc üzerinden yürütülüp aslında tüm adımlar beraber yapılmıştır.</li>
@@ -43,8 +44,8 @@
          <ul>
            <h6>Ahmet Bahadır Aksakal;</h6>
            <li> Ana menü scripti, bu scripteki asenkron geçişler, save edilen sahnenin tespiti ve yüklenmesi (resume butonu işlevi).</li>
-           <li> Pause menü fonksiyonlarının asenkron şekilde yazılması - Projeye Entegre Kısmında Çağla Yağmur İçer Ekstra Destek Verdi.</li>
-           <li> Kayıt alma, fonksiyonlarının yazılması ve projeye entegre edilmesi.</li>
+           <li> Sahne2'nin oluşturulması ve yeni bugların fixlemesi</li>
+           <li> Menü tasarımları ve oyuna uyumlu yeni yazı tipi eklenmesi ve projeye entegre edilmesi.</li>
            <li> Restart butonlarının en baştaki sahneye geri atıyordu,Butonlar o anda oynanan sahneyi restart edecek şekilde güncellendi(Asenkron).</li>
            <li> GoNextLevel() fonksiyonu ile istenilen şekilde asenkron sahne geçileri</li>
            <li> Tüm proje tek pc üzerinden yürütülüp aslında tüm adımlar beraber yapılmıştır.</li>
