@@ -13,7 +13,7 @@
 
 #### [EN]
 
-# My 3rd Grade Fall Semester Game Programming Final Project: BlowUpBox2
+# 3rd Grade Fall Semester Game Programming Final Project: BlowUpBox2
 
 ###### [Click to Play the Game(https://bahadir-aksakal.itch.io/blowupboxx2)](https://bahadir-aksakal.itch.io/blowupboxx2)
 
